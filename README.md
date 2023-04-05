@@ -1,5 +1,5 @@
 # IPL-Win-Prediction
-## Screenshot of how the project looks
+## Screenshot of how the project looks,
 
 ![Screenshot (262)](https://user-images.githubusercontent.com/109866847/229516813-bfaecec7-9048-489a-9362-380496e6d9ba.png)
 
